@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @dattopant91
-- 👀 I’m interested in ...coding  
-- 🌱 I’m currently learning ...Post graduate
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-# Hi there, I'm Sandesh Dange 👋
+# Hi there, I'm Dattopant Dange 👋
 
 ### Software Engineer | Full Stack Developer | Lifelong Learner
 
