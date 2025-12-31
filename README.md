@@ -30,6 +30,8 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dattopant91&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
+
   <img src="https://github-readme-stats.vercel.app/api?username=dattopant91&show_icons=true&theme=dracula" height="150"/>
   <img src="https://streak-stats.demolab.com?user=dattopant91&theme=dracula" height="150"/>
 </div>
@@ -37,6 +39,7 @@
 ---
 ## 📈 Activity Graph
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=dattopant91&theme=dracula&hide_border=false" height="150" alt="GitHub streak" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dattopant91&theme=react-dark" />
 </div>
 
