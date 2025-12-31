@@ -30,19 +30,19 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandeshDange&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dattopant91&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SandeshDange&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dattopant91&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/" target="blank">
+<a href="https://www.linkedin.com/in/dattopant-dange/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/" target="blank">
+<a href="https://www.instagram.com/dange_sandesh" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 </p>
@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SandeshDange&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=dattopant91&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <!---
