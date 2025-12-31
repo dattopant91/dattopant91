@@ -29,13 +29,21 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dattopant91&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dattopant91&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dattopant91&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=dattopant91&theme=dracula" height="150"/>
+</div>
 
 ---
+## 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dattopant91&theme=react-dark" />
+</div>
+
+---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dattopant91&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
 ### 🤝 Connect with me:
 <p align="left">
